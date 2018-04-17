@@ -1,0 +1,9 @@
+que project identifier
+# see the "settings" page of your project
+export GEMNASIUM_PROJECT_SLUG="simple-form-sample"
+
+# user API key, from the user "settings" page
+export GEMNASIUM_API_KEY="134e740925ddda76f7ddebfa0c2b4fc4"
+
+# the command to run the test suite
+export GEMNASIUM_TESTSUITE="bundle exec rake"
