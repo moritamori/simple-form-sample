@@ -1,4 +1,4 @@
-que project identifier
+# unique project identifier
 # see the "settings" page of your project
 export GEMNASIUM_PROJECT_SLUG="simple-form-sample"
 
